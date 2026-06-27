@@ -1,0 +1,6 @@
+{
+  "name": "Toko Digital",
+  "description": "Aplikasi Toko Digital yang responsif, elegan, dengan integrasi Lead WhatsApp dan tombol WhatsApp melayang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
